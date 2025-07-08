@@ -5,24 +5,22 @@ h1 {
     text-align:center;
     margin-top: 0px;
 }
-.soccer {
-    color:blue;
-}
+
 #midashi2-2{
     color:yellow
 }
 
 #box {
-  width: 200px;
-  height: 120px;
+  width: 280px;
+  height: 150px;
   padding: 10px;
   border: 1px solid gray;
   background-color: rgb(210, 232, 247);
   box-sizing: border-box;
 }
 #box li {
-  margin-top: 2px;
-  margin-left: 50px;
+  margin-top: 3px;
+  margin-left: 10px;
 }
 
 ol {
