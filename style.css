@@ -1,7 +1,7 @@
 
 h1 {
-    color: red;
-    background-color: black;
+    color: rgb(0, 255, 30);
+    background-color: rgba(0, 0, 0, 0.032);
     text-align:center;
     margin-top: 0px;
 }
